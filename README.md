@@ -1,4 +1,6 @@
 Proyecto de Análisis de Datos con SQL y Tablas Dinámicas
+
+
 Este proyecto tiene como objetivo realizar un análisis exhaustivo de bases de datos utilizando SQL y tablas dinámicas. A lo largo del proyecto, cargaremos bases de datos, las limpiaremos y analizaremos con SQL, y finalmente utilizaremos tablas dinámicas (pivot tables) para visualizar y analizar los datos de manera más efectiva.
 
 Descripción del Proyecto
